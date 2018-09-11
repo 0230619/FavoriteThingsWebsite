@@ -1,3 +1,11 @@
 * {
     text-align: center;
 }
+
+h1 {
+     color: orange;
+}
+
+body {
+    background-image: url("https://i.ytimg.com/vi/6YqIMIk7dAw/maxresdefault.jpg");
+}
